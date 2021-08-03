@@ -22,7 +22,7 @@ var receiveLists = [{
     97: "0xbc4081a8b192a50bd58ac6c595d766e59a56c37e"
   },
   info: {
-    time: 1627968682159,
+    time: 1633154051740,
     buys: ["10,000,000 wBitcoin = 250,000,000 wMonero", "100,000,000 wDogecoin = 300,000,000 wMonero", "0.01 BNB = 30,000,000 wMonero"]
   }
 }, {
